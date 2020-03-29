@@ -1,1 +1,3 @@
-class assert_instance_of
+class Artist
+  attr_accessor :name
+end
